@@ -68,6 +68,5 @@ conexao.php  conexão com o MySQL
 Projeto em grupo. Fork do repositório original [Marsheym/TCC](https://github.com/Marsheym/TCC).
 
 - Henrique Paglione · desenvolvimento do código (PHP, JavaScript e telas)
-- Lucas Kawe · [@LucasKawe](https://github.com/LucasKawe)
 - Junio Gustavo · modelagem do banco de dados · [@JunioGMoura](https://github.com/JunioGMoura)
 - Kaique Reimberg · documentação
